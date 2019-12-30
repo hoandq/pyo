@@ -1,0 +1,30 @@
+<odoo>
+    <data>
+
+          <record id="sv1" model="students_info.students_info">
+            <field name="ten">Sinh vien 1</field>
+            <field name="tuoi">0</field>
+          </record>
+
+          <record id="sv2" model="students_info.students_info">
+            <field name="ten">Sinh vien 2</field>
+            <field name="tuoi">10</field>
+          </record>
+
+          <record id="sv3" model="students_info.students_info">
+            <field name="ten">Sinh vien 2</field>
+            <field name="tuoi">20</field>
+          </record>
+
+          <record id="sv3" model="students_info.students_info">
+            <field name="ten">Sinh vien 4</field>
+            <field name="tuoi">30</field>
+          </record>
+
+          <record id="sv5" model="students_info.students_info">
+            <field name="ten">Sinh vien 5</field>
+            <field name="tuoi">40</field>
+          </record>
+
+    </data>
+</odoo>
